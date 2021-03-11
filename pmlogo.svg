@@ -1,18 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="50" viewBox="0 0 400 100">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="40" viewBox="0 0 210 80">
   <defs>
     <style>
       .cls-1 {
-        font-size: 113.581px;
+        font-size: 203.367px;
+        fill: #fff;
         text-anchor: middle;
-        fill: #fefefe;
-        font-family: "Bernard MT Condensed";
-      }
-
-      .cls-2 {
-        font-family: "Source Han Sans CN";
+        font-family: "Niagara Solid";
       }
     </style>
   </defs>
-  <image id="背景" width="400" height="100" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAyCAYAAAAZUZThAAAAnUlEQVR4nO3TAQ3AMAzAsH78OfcEtiCwIUTKt7s7wNWRBd4MAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIBAMAsEgEAwCwSAQDALBIPAyMz+dSgRgQQHD7wAAAABJRU5ErkJggg=="/>
-  <text id="PM导航" class="cls-1" transform="translate(200.116 76.945) scale(1 0.634)"><tspan x="0">PM<tspan class="cls-2">导航</tspan></tspan></text>
+  <image id="背景" width="210" height="80" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAoCAYAAAD9htTzAAAAc0lEQVR4nO3RAQ3AQAgAMTb/nnkbXNJa6Le7O5z267lPUoCkAEkBkgIkBUgKkBQgKUBSgKQASQGSAiQFSAqQFCApQFKApABJAZICJAVICpAUIClAUoCkAEkBkgIkBUgKkBQgKUBSgKQASQGSAiQFSLpuZh6n4gRMcbtwYQAAAABJRU5ErkJggg=="/>
+  <text id="PM" class="cls-1" transform="translate(66.299 64.857) scale(0.599 0.354)"><tspan x="0">PM</tspan></text>
+  <image id="to-do" x="124" width="62" height="80" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAoCAYAAACfKfiZAAAEJ0lEQVRYhe1Y22sjVRj/zT3JNKbtGtLtZbHSVgURRRAtukR8EC/Pi+yL7ov4oqDgH5B3WUERRALig/ugsE/LyvqysqisYKurK2vbVWrvl02ay840k7nJd2aSNM3O5FbEh/7gkMmZc873O9/5fd/5Ei47b78B4HP0iNVSrzMZzvF9TT8CHBM4JiCGvTw9bmJ6yL7nu8t/y9jUePAc8PgJA48NG0hGLdguh3VNxE87ESyXpf4ItJ0sAGceLOOBuFnvEzgXk3GTte+3oqz1TGBhT2C7HFEdzPieuLbm7apgcJg9aWJC9oxv6iIWCjIk3mUeUSUHz47sY0sXcbsU7IlQAtsaj23Ne64RWNoT2KciuJgatGHowFJRxsXlAbiuN3bujoJzD5UQlxw8k9oPJdCzCJMxFxznPV/bjNaNE3SLx9xuhD2PqRbTyZETIFfXsG+3WtCsRh/p4sgJFI3G1OmE2fJ+xu+7a/IwnWAX9BwF+QqHosFBAfDCqA7LAW4VZMi8i9lUBdOJKht3c08OXaevMPxhXcLpJAeRd/HKKY21g8hVBPzYJgz7yoQUohf+ijNDh0GR8eXt+1ANcT+hIw/s6jyub9576IYmIvtnAqOqhWTEhuV6fXmjlVTPBCjpFIzgoaRxSr/UukXojIm4A94PIcflUKp6wgtCQnZY3FOI3qkI2NDFpvzQtQfSE1XIhzy5rfO4uiJBMxtEIoKLF8c1PDJUbRpLx3B5RcVaiGe6FmEq5uClySoE3z5FwGtT5RbjhGHFxtmpEsZVqz8Cv+yI+HpBwY1dbycJxa1f008lKxiJegZu5BR88scgPvhtCJdWVBYBlIZfPqUh6OA6ImDYYOf/85aIvYq31FjcYZ+PDns7p7v/m1UVZZOH5XC4mVfw7Vqs7omTAV7o+ghyFW+KKrn1xQmLxdYbb7HQyIK1cX0TEP0ZtucAtltCTGyVe0xq9FkBCakrAlHRxdiAt5OcfxQ1hT9xv8Hu/4N4bkSvfwvKER1ljvEBB6pkYTJhQ/IpL+W9+Ly+E2ElmSo6rAj5NadAtzg8PFitq5/0QNronUDcYa0GioqaFkh8VzdieH5UR0x0MJvab5pLO6+JsWsClGyqvl3KaOUqh1t5AcvF5uxEFfCWLuDpVIVlQpFzWRL6Pa+w8izo/NsSuLikhL1uwj93Jda6xfEvo/8FgSsAPibN/Yd2Nd/mlbo8s/P2IIA3AbxDqb7Tlbr8h2QdwEcAPsukhQJ1tMRHdt4mKZ8B8C6AJ4+IwByADwF8lUkLTTV8aMWYnbfTAN4D8GrQ2BACdBFcAnA+kxa+CxoUXrI2iMz4HnmdroQ2BCgVfkE7zqSFxXZrd0TgAJETAN4C8DYVR4cIbPvC+jSTFnKdrtkVgQNE6KI/C+D91RLoejwP4EImLbTWZWEA8C95JpGs5xyzwwAAAABJRU5ErkJggg=="/>
 </svg>
